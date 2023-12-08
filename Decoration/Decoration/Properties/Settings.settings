@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Decoration.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="connstringM" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=MEPHI3-MSSQL;Initial Catalog=Trade_Koptsev;Integrated Security=True</Value>
+    </Setting>
+    <Setting Name="connstringW" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=K-441\SQLEXPRESS;Initial Catalog=Trade_Koptsev;Integrated Security=True</Value>
+    </Setting>
+    <Setting Name="connstring" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=laptop-l4r2kqnd;Initial Catalog=Trade_Koptsev;Integrated Security=True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
